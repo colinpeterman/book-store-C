@@ -1,0 +1,12 @@
+iBY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED TO THE TENURES OF THE OHIO STATE UNIVERSITY’S ACADEMIC INTEGRITY POLICY WITH RESPECT TO THIS ASSIGNMENT.
+THIS IS THE README FILE FOR LAB 3.
+
+Colin Peterman
+
+2. Time it took to do the Lab: 
+11 hours
+3. Description of concerns or general comments:
+This took a long time and it was mainly struggling to figure out where the error where in my program. I think the hardest part of this was figuring out the pointers and getting it to work with them.
+4. Describe, with 4-5 sentences, how you used gdb to find a bug in your program while debugging it. Or, if you had no bugs in your program, how you used gdb to verify that your program was working correctly. Include how you set breakpoints, variables you printed out, what values they had, what you found that enabled you to fix the bug.
+I had a couple issues where my code was not functioning properly and the errors it was throwing were not helpful. I was able to run gdb on lab3 and step through the program. This eventually led to where the error was being thrown and it gave me a more specific error. I was then able to take this and figure out where and why the code was not functioning properly.
+
